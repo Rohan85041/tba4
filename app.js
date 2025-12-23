@@ -11,6 +11,8 @@ bot.command('location',function(ctx){
 bot.command('meme',async function(ctx){
    await ctx.replyWithAnimation('https://media1.tenor.com/m/Dc7Jf45wXjkAAAAd/upendra-gif.gif')
 })
+console.log("amazing feature u must try it")
+bot.launch();
 bot.launch();
 console.log("manya,jyothi,likhith,nanditha");
 console.log("nandu")
