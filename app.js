@@ -13,3 +13,4 @@ bot.command('meme',async function(ctx){
 })
 bot.launch();
 console.log("nandu")
+console.log("feature");
