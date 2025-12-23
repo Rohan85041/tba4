@@ -13,3 +13,5 @@ bot.command('meme',async function(ctx){
 })
 bot.launch();
 console.log("manya,jyothi,likhith,nanditha");
+console.log("nandu")
+console.log("feature");
