@@ -13,3 +13,5 @@ bot.command('meme',async function(ctx){
 })
 console.log("amazing feature u must try it")
 bot.launch();
+bot.launch();
+console.log("feature");
