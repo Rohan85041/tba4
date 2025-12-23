@@ -12,4 +12,5 @@ bot.command('meme',async function(ctx){
    await ctx.replyWithAnimation('https://media1.tenor.com/m/Dc7Jf45wXjkAAAAd/upendra-gif.gif')
 })
 bot.launch();
+console.log("nandu")
 console.log("feature");
